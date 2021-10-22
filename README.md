@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harylog
-- 👀 I’m interested in Python
+- 👀 I’m interested in Front-End or Full-stack self development
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on something exciting
 - 📫 You can reach me via GitHub
